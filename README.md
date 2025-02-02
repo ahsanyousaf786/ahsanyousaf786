@@ -2,6 +2,7 @@
 
 I'm a **passionate Full Stack Developer** from **Lahore, Pakistan** 🌍. I thrive on crafting dynamic, user-friendly applications that seamlessly blend functionality with creativity.  
 
+
 ---
 
 ## 🚀 What I Do  
@@ -26,6 +27,7 @@ Whether it’s a personal passion project or a large-scale application, I’m al
 ---
 <h3 align="left">Languages and Tools:</h3>
 
+<img align="right" alt="Coding" width="400px" src="https://media.licdn.com/dms/image/v2/D5622AQG25wZZR8ISMA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721657503896?e=2147483647&v=beta&t=BEYcudUkOaCcBKaTY-A1XKQpOs91LEecfCldFJ_2dsc">
 
 
 <div align="left" style="display: flex; flex-direction: column; gap: 30px; align-items: flex-start;">
